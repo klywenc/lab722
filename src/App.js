@@ -18,7 +18,7 @@ const AppContent = () => {
                 color: theme === 'jasny' ? '#333333' : '#f4f4f9', // Kolor tekstu
             }}
         >
-            <h1>LAB 7 - React (Po polsku)</h1>
+            <h1>LAB 7 - React</h1>
 
             <h2>Przełącznik motywu</h2>
             <ThemeToggler />
